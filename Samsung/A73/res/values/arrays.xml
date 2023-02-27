@@ -537,7 +537,7 @@
         <item>484</item>
         <item>485</item>
         <item>486</item>
-   </integer-array>
+    </integer-array>
     <array name="config_screenBrightnessNits">
         <item>2</item>
         <item>2.311</item>
