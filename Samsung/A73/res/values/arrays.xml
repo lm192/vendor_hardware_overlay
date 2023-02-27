@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<integer-array name="config_aodBrightnessValues">
+<integer-array name="config_screenBrightnessDoze">
         <item>0</item>
         <item>12</item>
         <item>32</item>
