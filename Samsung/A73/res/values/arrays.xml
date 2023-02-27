@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<integer-array name="config_aodBrightnessValues">
+        <item>0</item>
+        <item>12</item>
+        <item>32</item>
+        <item>56</item>
+    </integer-array>	
     <integer-array name="config_autoBrightnessDisplayValuesNits">
         <item>11</item>
         <item>15</item>
